@@ -17,7 +17,7 @@ currently working on personal projects.
 - **optimization** - making sure every interaction feels smooth
 
 ### 🚀 current projects
-- <img src="assets/ticks-icon.png" width="24" style="vertical-align:middle; margin-right:8px;"> got one app that's practically ready to ship: **[ticks](https://ticksapp.com)**. as any indie dev knows, shipping an app means wearing all the hats—so i'm currently deep in after effects for promo videos, perfecting app store screenshots, and crafting all the marketing materials.
+- <img src="assets/ticks-icon.png" width="24" style="vertical-align:middle; margin-right:8px;"> **[ticks](https://ticksapp.com)** - save websites, links, articles, and notes all in one place, with offline reading support and customizable groups to keep things organized.
 - working on some cool stuff that i'm not ready to talk about yet. let's just say it involves productivity and some experiments with apple's latest wwdc25 apis.
 
 ### 📜 old projects
